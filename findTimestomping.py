@@ -1,7 +1,3 @@
-# Joshua Murchie
-# jm8149
-# Digital Forensics (Summer 2019)
-# Final Project
 # Requires installation of analyzemft, libewf, pytsk3, sandboxapi, virustotal
 # Recommended method for ensuring dependencies are met is running the below commands:
 # python2.7 -m pip install pytsk3
